@@ -1,0 +1,15 @@
+# mac specific files
+.DS_Store
+
+# R-project and meta files
+.Rproj.user
+.Rhistory
+
+# Python byte code files
+*.pyc
+
+# VS code metadata
+.vscode
+
+# Notebook temporary files
+.ipynb_checkpoints
