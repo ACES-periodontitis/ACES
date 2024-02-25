@@ -10,7 +10,7 @@ The aim of the project is to develop algorithms based on epidemiological data, w
 
 ### [**ACES: A new framework for the application of the 2018 periodontal status classification scheme to epidemiological survey data**](https://onlinelibrary.wiley.com/doi/10.1111/jcpe.13965)
 
-Please cite as `Holtfreter, B., Kuhr, K., Borof, K.,Tonetti, M. S., Sanz, M., Kornman, K., Jepsen, S., Aarabi, G.,Völzke, H., Kocher, T., Krois, J., & Papapanou, P. N. (2024). ACES: A new framework for the application of the 2018periodontal status classification scheme to epidemiologicalsurvey data. Journal of Clinical Periodontology,1–10.https://doi.org/10.1111/jcpe.13965`
+Please cite as `Holtfreter, B., Kuhr, K., Borof, K.,Tonetti, M. S., Sanz, M., Kornman, K., Jepsen, S., Aarabi, G.,Völzke, H., Kocher, T., Krois, J., & Papapanou, P. N. (2024). ACES: A new framework for the application of the 2018 periodontal status classification scheme to epidemiologicalsurvey data. Journal of Clinical Periodontology, 1–10. https://doi.org/10.1111/jcpe.13965`
 
 #### Aim
 To propose a framework for consistently applying the 2018 periodontal status classification scheme to epidemiological surveys (Application of the 2018 periodontal status Classification to Epidemiological Survey data, ACES).
