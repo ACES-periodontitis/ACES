@@ -35,7 +35,6 @@ ACES is a framework to be used in epidemiological studies of periodontal status 
 
 This repository has the following structure:
 
-    pkk
     ├── .git                    # Git internals, don't mess around here.
     ├── .gitignore              # Specifies files and folders that should be ignored by git.
     ├── datasets                # Find the datasets here 
@@ -64,13 +63,13 @@ This repository has the following structure:
     │   │   └── processed       # processed files that may be used elsewhere
     │   ├── src                 # Source code
     │   └── README.md           # A README for the SPSS code repository.
-    ├── STATA                   # Find the STATA implementation of the algorithm here.
-    │   ├── ...                 # ...
-    │   ├── data                # data folder
-    │   │   ├── interim         # temporary files
-    │   │   └── processed       # processed files that may be used elsewhere
-    │   ├── src                 # Source code
-    │   └── README.md           # A README for the STATA code repository.
+    └── STATA                   # Find the STATA implementation of the algorithm here.
+        ├── ...                 # ...
+        ├── data                # data folder
+        │   ├── interim         # temporary files
+        │   └── processed       # processed files that may be used elsewhere
+        ├── src                 # Source code
+        └── README.md           # A README for the STATA code repository.
     
     
 
