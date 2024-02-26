@@ -24,7 +24,7 @@ ACES is a framework to be used in epidemiological studies of periodontal status 
 
 ## Contact
 
-* ZZMK - Birte Holtfreter (birte.holtfreter@uni-greifswald.de)
+* ZZMK - Birte Holtfreter (Birte.Holtfreter@med.uni-greifswald.de)
 * IDZ - Kathrin Kuhr (K.Kuhr@idz.institute)
 * UKE -  Katrin Borof (k.borof@uke.de)
 * ODDH2 - Joachim Krois (joachim.krois@gmail.com)
